@@ -1,4 +1,4 @@
-
+# 仅适配Jasmine主题**V2.5.5**版本/V3暂未适配。
 ## 新版本（大概是0.22.2）Memos的API发生了变化，所以代码进行了部分修改。如果安装的是较新的memos，请使用`shuoshuo_new.js`。page-shuoshuo.php中的js链接也要更新为新的链接
 
 在某个版本后Memos的api发生了变化。
